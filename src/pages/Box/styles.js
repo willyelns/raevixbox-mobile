@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     bottom: 30 + getBottomSpace(),
     width: 60,
     height: 60,
-    backgroundColor: "#7159c1",
+    backgroundColor: "#EA2B3A",
     borderRadius: 30,
     alignItems: "center",
     justifyContent: "center"
